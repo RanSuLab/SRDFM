@@ -8,7 +8,9 @@ In this study, we designed a model, named SRDFM, to rank drugs and recommend the
 # Dataset
 
 Cancer Cell Line Encyclopedia (CCLE)
+
 Genomics of Drug Sensitivity in Cancer (GDSC)
+
 Drug combination dataset
 
 # CCLE
